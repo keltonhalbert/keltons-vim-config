@@ -1,0 +1,31 @@
+{
+  "repos": [
+    {
+      "type": "git",
+      "path": "github.com/airblade/vim-gitgutter",
+      "version": "da2c785221810b3d57479bb4b3678aabf32f3b88"
+    },
+    {
+      "type": "git",
+      "path": "github.com/altercation/vim-colors-solarized",
+      "version": "528a59f26d12278698bb946f8fb82a63711eec21"
+    },
+    {
+      "type": "git",
+      "path": "github.com/frazrepo/vim-rainbow",
+      "version": "a6c7fd5a2b0193b5dbd03f62ad820b521dea3290"
+    },
+    {
+      "type": "git",
+      "path": "github.com/preservim/nerdcommenter",
+      "version": "c62e618a1ab5a50a4028e3296500ba29d9b033d8"
+    },
+    {
+      "type": "git",
+      "path": "github.com/preservim/nerdtree",
+      "version": "07612557ebb4118ef4a337faa7033d0270773c71"
+    }
+  ],
+  "version": 2,
+  "strategy": "symlink"
+}
